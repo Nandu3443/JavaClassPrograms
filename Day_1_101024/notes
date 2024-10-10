@@ -1,0 +1,50 @@
+camel case: every word starts lower case and sub-sequent words will start with Capital Letter
+
+            ex: myFirstJavaProgram
+
+pascal case: ever word and sub-sequent words will start with Capital Letter
+
+            ex: MyFirstJavaProgram
+
+What is Method?:
+    def:
+
+    output name (input){
+
+        activities
+    
+    }
+    
+    java method definition:
+    
+    return_type method_name(parameters){
+    
+            body
+            return 
+    }
+    
+    int add_numbers(int a,int b){
+        return a+b
+    }
+    
+    void add_numbers(int a,int b){
+        System.out.println(a+b)
+    }
+
+
+Object Orientation: Persepective (The way of lookin..)
+
+Rules of O.O:
+1) The world is collection of objects
+2) Every object is usefull object and no object is useless
+3) Every object is in constant interaction with other objects,
+    no object is isolated
+4) Every object belongs to a type [type is nothing but class]
+5) Type doesn't exists in reality, only objects of that type exists
+    in reality 
+6) Every object has 2 parts 
+    1) has part : It represents the properties of the object
+    2) does part : It presents the behaviour of the object
+
+
+
