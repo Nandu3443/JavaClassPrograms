@@ -14,6 +14,5 @@ class MyFirstProgram{
         // MyName.printMySurname();
         MyName obj1 = new MyName();
         obj1.printMySurname();
-
     }
 }

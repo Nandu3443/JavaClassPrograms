@@ -1,0 +1,36 @@
+Problem Statement: Develop a program that illustrates Guess Number
+    Solution: GusserGame.java 
+
+Variable: Giving some name to the memory location 
+
+    Allowed Characters:     A-Z
+                            a-z 
+                            0-9
+                            _,$
+
+                Valid Varibales:
+                    Name   Valid/Not             
+                    abc      Yes
+                    526a     No
+                    _myName  yes
+                    _        No
+                    $        No
+                    myName   yes   (camel Case)
+                    MyName   yes   (Pascal)
+                    my_name  yes   (snake case)
+                    my-name  no    (kebab case)
+variable name is technically called identifiers
+Identifier Rules:
+1) Only above allowed characters can be used as identifier
+2) It should only follow camel Case
+3) No variable can start with Number
+4) No varibale can only have single character of special character
+5) We should use any keywords as identifier
+
+Keywords: Reserved words by java, which does some specific operations
+    Ex: public, class, static, void, int, String, etc
+
+Literals: The values assigned to variables
+
+Ex:
+        int x = 5;
