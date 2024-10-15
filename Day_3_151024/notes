@@ -1,0 +1,78 @@
+DataTypes:
+			We have 2 data types
+			1) Primitive 
+			2) Non-Primitive (Reference Type)
+			
+					Data Types
+				 /             \
+				/               \
+			   /                 \
+			Primitive
+		/ 		|	 \           Non Primitive                            
+	   /	    |     \
+Numeric  Characters    Yes/No
+		(2b size)                    true/faslse
+		(UTF Supported)
+	  char c ='A'
+	  char utf = '\u0c05'
+	  only single character is allowed
+	  and any UTF character is allowed
+
+
+
+					Numeric:
+					/ \
+				   /   \
+				  /	    \
+  		Integers  			Real Number
+
+
+		Integers:
+		byte (1b): 8-bit signed number ranging from -128 to 127
+		
+			byte b = 100;
+		
+		short (2b): 16-bit signed integer number ranging from -32,768 to 32,767
+		
+			 short a = 5000;
+		
+		int (4b): 32-bit signed integer number ranging from -2^31 to (2^31 - 1 )
+			
+			int i =  100000;
+			
+		long (8b): 64-bit singed integer number ranging from -2^63 to (2^63 -1)
+		
+			long l = 1500000000000L
+		
+	
+		Real Number:
+		
+		float (4b): 32-bit floating-point number (single precision)
+			float f = 5.42f;
+		
+		double (8b) : 64-bit floating point number (double precision)
+			double d = 19.99;
+
+Type Casting:
+				Converting from one datatype to another datatype 
+				
+				2 Types of casting:
+									1) Implicit 
+									2) Explict 
+									
+		Non Primitive:
+			Classes,Strings,Arrays,Interfaces,Enums							
+		
+===============================================									=======================
+	Implicit Type Casting: Converting from lower datatype to higher datatype is called implicit TC
+			ex:       byte y = 10;
+					  int x = y;
+					  
+	Explicit Type Casting: Converting from higer data type to lower data type 
+			
+			ex:   int x = 10;
+				  byte y = (byte)x;
+				  
+				  
+	
+	
