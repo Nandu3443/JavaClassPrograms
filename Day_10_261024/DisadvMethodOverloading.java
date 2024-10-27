@@ -14,7 +14,7 @@ public class DisadvMethodOverloading {
 			Calcu c = new Calcu();
 			int a = 5;
 			int b = 10;
-			System.out.println(c.add(a,b));
+//			System.out.println(c.add(a,b));
 	}
 
 }
