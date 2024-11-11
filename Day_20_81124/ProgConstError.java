@@ -6,11 +6,15 @@ class Bank{
 //	Bank(){
 //		
 //	}
+	Bank createBankInstance(double amount) {
+		return new Bank(amount);
+	}
+	
 }
 public class ProgConstError {
 
 	public static void main(String[] args) {
-			Bank b = new Bank(1000.00);
+//			Bank b = new Bank(1000.00);
 
 	}
 
