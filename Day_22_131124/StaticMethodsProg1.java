@@ -9,7 +9,7 @@ class WithStatic{
 	int x;
 	static void myMethod() {
 		System.out.println("static method..");
-		System.out.println(x);
+//		System.out.println(x);
 	}
 }
 
