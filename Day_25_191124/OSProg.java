@@ -30,7 +30,7 @@ public class OSProg {
 	public static void main(String[] args) {
 			OS os = new OS();
 			os.boot();
-			os.shutDown();
+//			os.shutDown();
 //			os.playPubg();  // parent can't inherit child method
 			
 			Windows windows= new Windows();

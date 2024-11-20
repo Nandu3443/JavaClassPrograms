@@ -25,5 +25,6 @@
 	<classpathentry kind="src" path="Day_22_131124"/>
 	<classpathentry kind="src" path="Day_24_171124"/>
 	<classpathentry kind="src" path="Day_25_191124"/>
+	<classpathentry kind="src" path="Day_26_201124"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
