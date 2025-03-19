@@ -14,6 +14,7 @@ public class ThreadPriorityProg {
 		Thread mainThread = Thread.currentThread();
 		mainThread.setPriority(6);
 		System.out.printf("%s - %s\n",mainThread.getName(),mainThread.getPriority());
+		
 		ChildTHread t= new ChildTHread();
 		t.start();
 //		t.setPriority(1);
