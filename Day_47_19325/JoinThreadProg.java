@@ -13,6 +13,10 @@ class Downloading extends Thread{
 	}
 }
 public class JoinThreadProg {
+	
+	public static void interuptJob(Downloading d) throws InterruptedException {
+		d.join();
+	}
 
 	public static void main(String[] args) {
 		Downloading d = new Downloading();
