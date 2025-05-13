@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Day_1_101024"/>
+	<classpathentry kind="src" path="Day_10_261024"/>
+	<classpathentry kind="src" path="Day_11_271024"/>
+	<classpathentry kind="src" path="Day_12_281024"/>
+	<classpathentry kind="src" path="Day_13_291024"/>
+	<classpathentry kind="src" path="Day_14_11124"/>
+	<classpathentry kind="src" path="Day_15_21124"/>
+	<classpathentry kind="src" path="Day_16_31124"/>
+	<classpathentry kind="src" path="Day_17_51124"/>
+	<classpathentry kind="src" path="Day_18_61124"/>
+	<classpathentry kind="src" path="Day_19_71124"/>
+	<classpathentry kind="src" path="Day_2_141024"/>
+	<classpathentry kind="src" path="Day_20_81124"/>
+	<classpathentry kind="src" path="Day_21_11_1124"/>
+	<classpathentry kind="src" path="Day_22_131124"/>
+	<classpathentry kind="src" path="Day_23_151124"/>
+	<classpathentry kind="src" path="Day_24_171124"/>
+	<classpathentry kind="src" path="Day_25_191124"/>
+	<classpathentry kind="src" path="Day_26_201124"/>
+	<classpathentry kind="src" path="Day_27_101224"/>
+	<classpathentry kind="src" path="Day_28_111224"/>
+	<classpathentry kind="src" path="Day_29_181224"/>
+	<classpathentry kind="src" path="Day_3_151024"/>
+	<classpathentry kind="src" path="Day_30_201224"/>
+	<classpathentry kind="src" path="Day_31_211224"/>
+	<classpathentry kind="src" path="Day_32_241224"/>
+	<classpathentry kind="src" path="Day_33_251224"/>
+	<classpathentry kind="src" path="Day_34_271224"/>
+	<classpathentry kind="src" path="Day_35_040125"/>
+	<classpathentry kind="src" path="Day_36_050125"/>
+	<classpathentry kind="src" path="Day_37_110125"/>
+	<classpathentry kind="src" path="Day_38_170125"/>
+	<classpathentry kind="src" path="Day_39_180125"/>
+	<classpathentry kind="src" path="Day_4_161024"/>
+	<classpathentry kind="src" path="Day_40_110225"/>
+	<classpathentry kind="src" path="Day_41_120225"/>
+	<classpathentry kind="src" path="Day_42_130225"/>
+	<classpathentry kind="src" path="Day_43_170225"/>
+	<classpathentry kind="src" path="Day_44_150325"/>
+	<classpathentry kind="src" path="Day_45_160325"/>
+	<classpathentry kind="src" path="Day_46_180325"/>
+	<classpathentry kind="src" path="Day_47_19325"/>
+	<classpathentry kind="src" path="Day_48_210325"/>
+	<classpathentry kind="src" path="Day_49_22325"/>
+	<classpathentry kind="src" path="Day_5_191024"/>
+	<classpathentry kind="src" path="Day_50_26325"/>
+	<classpathentry kind="src" path="Day_51_040425"/>
+	<classpathentry kind="src" path="Day_52_100425"/>
+	<classpathentry kind="src" path="Day_53_110425"/>
+	<classpathentry kind="src" path="Day_54_120425"/>
+	<classpathentry kind="src" path="Day_55_140425"/>
+	<classpathentry kind="src" path="Day_56_130525"/>
+	<classpathentry kind="src" path="Day_6_211024"/>
+	<classpathentry kind="src" path="Day_7_221024"/>
+	<classpathentry kind="src" path="Day_8_231024"/>
+	<classpathentry kind="src" path="Day_9_241024"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
